@@ -39,7 +39,7 @@
     - [ ] [AM207 - Stochastic Methods for Data Analysis, Inference and Optimization, 2016 - Harvard](http://am207.github.io/2016/index.html)
 
 -  **Discrete Maths**
-    - [x] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+    - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 -  **Opmitisation**
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
